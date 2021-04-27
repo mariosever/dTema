@@ -1,0 +1,2 @@
+# dTema
+Wordpress custom theme
